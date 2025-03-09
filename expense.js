@@ -1,3 +1,5 @@
+// linguist-detectable
+
 let submitButton = document.getElementById("submitExpense");
 let title = document.getElementById("expenseTitle");
 let cost = document.getElementById("expenseCost");
