@@ -1,4 +1,4 @@
-# Expense Tracker
+# 💶 Expense Tracker
 
 ## Overview
 
@@ -31,3 +31,7 @@ The Expense Tracker is a simple web-based application that allows users to log e
 - `index.html` – Main page containing the application structure.
 - `expense.css` – Stylesheet for layout and design.
 - `expense.js` – JavaScript file handling expense management.
+
+## License
+
+This project is open-source and can be modified or distributed as needed.
